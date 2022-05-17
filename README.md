@@ -1,2 +1,3 @@
 # typescript-react
-Created with CodeSandbox
+
+This is a simple TODO app.
